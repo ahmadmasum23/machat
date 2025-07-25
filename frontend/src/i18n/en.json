@@ -1,0 +1,46 @@
+{
+    "chatapp":"ChattM",
+    "setting":"Settings",
+    "profile":"Profile",
+    "logout":"Logout",
+
+    "welcome":"Welcome to ChattM",
+    "welcome2":"Start chatting with your classmates.",
+
+    "contact":"Contacts",
+    "showonline":"Show online only",
+    "online":"Online",
+    "noonline":"No online users",
+
+    "welcomeback":"Welcome Back",
+    "signinto":"Sign in to your account",
+    "email":"Email",
+    "pasword":"Password",
+    "loading":"Loading....",
+    "dont":"Don't have an account?",
+    "createacount":"Create account",
+
+    "yourprofile":"Your profile information",
+    "fullname":"Full Name",
+    "emailadres":"Email Address",
+    "acountinfor":"Account Information",
+    "membersince":"Member Since",
+    "acountstatus":"Account Status",
+    "active":"Active",
+
+    "theme":"Theme",
+    "choseatheme":"Choose a theme for your chat interface",
+    "language":"Language",
+    "chooseLanguage": "Choose a language for your chat",
+    "preview":"Preview",
+    "ahmadm":"Ahmad Ma'sum",
+    "onli":"Online",
+    "12pm":"12:20 PM",
+    "content1":"Hello! How are you, Masum?",
+    "content2":"I am fine! How are you, is everything safe?",
+
+    "createac":"Create Account",
+    "getstar":"Get started with your free account",
+    "already":"Already have an account?",
+    "signin":"Sign In"
+}

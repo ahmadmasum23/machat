@@ -1,0 +1,48 @@
+{
+    
+    "chatapp":"ChattM",
+    "setting":"Pengaturan",
+    "profile":"Profil",
+    "logout":"Logout",
+
+    "welcome":"Selamat datang di Aplikasi ChattM",
+    "welcome2":"Mulailah mengobrol dengan teman sekelasmu.",
+
+    "contact":"Kontak",
+    "showonline":"Tampilkan yang online",
+    "online":"Online",
+    "noonline":"Tidak ada pengguna online",
+
+    "welcomeback":"Selamat Datang",
+    "signinto":"Masuk ke akun Anda",
+    "email":"Email",
+    "pasword":"Password",
+    "loading":"Memuat....",
+    "dont":"Tidak memiliki akun?",
+    "createacount":"Buat akun",
+
+    "yourprofile":"Informasi profil Anda",
+    "fullname":"Nama Lengkap",
+    "emailadres":"Alamat Email",
+    "acountinfor":"Informasi Akun",
+    "membersince":"Anggota Sejak",
+    "acountstatus":"Status Akun",
+    "active":"Aktif",
+
+    "theme":"Tema",
+    "choseatheme":"Pilih tema untuk antarmuka obrolan Anda",
+    "language":"Bahasa",
+    "chooseLanguage": "Pilih bahasa untuk obrolan Anda",
+    "preview":"Tampilan",
+    "ahmadm":"Ahmad Ma'sum",
+    "onli":"Offline",
+    "12pm":"12:20 AM",
+    "content1":"Halo! Apa kabar, Masum?",
+    "content2":"Aku baik-baik saja! Apa kabar, apakah semuanya aman?",
+
+    "createac":"Buat Akun",
+    "getstar":"Mulai dengan akun gratis Anda",
+    "already":"Sudah memiliki akun?",
+    "signin":"Sign In"
+
+}
